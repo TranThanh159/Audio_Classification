@@ -1,4 +1,5 @@
 Ứng dụng :demo mô hình nhận dạng chữ vựng tiếng anh bằng giọng nói bằng Framework web Flask
+
 Yêu Cầu
 Để triển khai và chạy ứng dụng, đảm bảo bạn đã cài đặt các thư viện cần thiết theo tệp requirements.txt. Bạn có thể cài đặt chúng bằng lệnh:
 pip install -r requirements.txt
