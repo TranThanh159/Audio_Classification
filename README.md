@@ -1,4 +1,4 @@
-Ứng dụng :demo mô hình nhận dạng chữ vựng tiếng anh bằng giọng nói bằng Framework web Flask
+Mô tả ứng dụng :demo mô hình nhận dạng chữ vựng tiếng anh bằng giọng nói bằng Framework web Flask
 
 Yêu Cầu
 
